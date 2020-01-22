@@ -1,6 +1,6 @@
 # Courses taken while Studying Abroad at Oxford
 
-Concurrent Algorithms and Data Structures
+Concurrent Algorithms and Data Structures\\
 Machine Learning
 Advanced Machine Learning
 Design and Analysis of Algorithms
