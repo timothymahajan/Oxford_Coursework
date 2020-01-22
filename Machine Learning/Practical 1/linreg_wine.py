@@ -16,7 +16,7 @@ y_test = y[N_train:]
 
 # HANDIN 1
 def plotYDistribution():
-	# get unique data and count of each unique data and construct frequency array with tuples
+    # get unique data and count of each unique data and construct frequency array with tuples
     unique, count = np.unique(y_train, return_counts=True)
     frequency = np.array(list(zip(unique, count)))
 
