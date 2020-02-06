@@ -12,6 +12,8 @@ Computational Complexity
 
 Database Systems Implementation
 
+Computer Architecture
+
 
 Differential Equations I
 
